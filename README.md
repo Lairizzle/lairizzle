@@ -2,6 +2,7 @@
 
 💻 **Developer | Open Source Enthusiast | Lifelong Learner**  
 I love building tools, automations, and experimenting with tech that makes life easier (or just cooler).
+
 ![My Blog](https://www.rizzforge.org)
 ---
 
@@ -15,7 +16,7 @@ I love building tools, automations, and experimenting with tech that makes life 
 
 ### 📌 Current Projects
 - 📝 Writing about Linux & Dev tools on my blog.
-- 🌱 Learning **Rust**.
+- 🌱 Learning **C++**.
 
 ---
 
