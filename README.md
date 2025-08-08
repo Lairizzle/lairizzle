@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Keith 👋
 
-<!--
-**Lairizzle/lairizzle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Developer | Open Source Enthusiast | Lifelong Learner**  
+I love building tools, automations, and experimenting with tech that makes life easier (or just cooler).
+![My Blog](https://www.rizzforge.org)
+---
 
-Here are some ideas to get you started:
+### 🚀 Tech & Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=fff)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📌 Current Projects
+- 📝 Writing about Linux & Dev tools on my blog.
+- 🌱 Learning **Rust**.
+
+---
+
+### 📊 GitHub Stats
+![Keith's GitHub stats](https://github-readme-stats.vercel.app/api?username=lairizzle&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lairizzle&layout=compact&theme=radical)
+
+---
+
+📫 **Reach me at:**  
+[![Email](https://img.shields.io/badge/Email-me@myemail.com-red?style=flat-square&logo=gmail)](mailto:keith.donaldh@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-lairizzle-black?style=flat-square&logo=github)](https://github.com/lairizzle)
