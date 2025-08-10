@@ -3,21 +3,21 @@
 💻 **Developer | Open Source Enthusiast | Lifelong Learner**  
 I love building tools, automations, and experimenting with tech that makes life easier (or just cooler).
 
-![My Blog](https://www.rizzforge.org)
+[My Blog](https://www.rizzforge.org)
 
 ---
 
 ### 🚀 Tech & Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=fff)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=fff)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
 
 ---
 
 ### 📌 Current Projects
 - 📝 Writing about Linux & Dev tools on my blog.
-- 🌱 Learning **C++**.
+- 🌱 Learning **C#**.
 
 ---
 
