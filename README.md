@@ -1,6 +1,6 @@
 # Hi there, I'm Keith 👋
 
-💻 **Developer | Open Source Enthusiast | Lifelong Learner**  
+💻 **Open Source Enthusiast | Lifelong Learner**  
 I love building tools, automations, and experimenting with tech that makes life easier (or just cooler).
 
 [My Blog](https://www.rizzforge.org)
@@ -15,18 +15,18 @@ I love building tools, automations, and experimenting with tech that makes life 
 
 ---
 
-### 📌 Current Projects
-- 📝 Writing about Linux & Dev tools on my blog.
-- 🌱 Learning **C#**.
+### Current Projects
+- Writing about Linux & Dev tools on my blog.
+- Learning **Rust**.
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 ![Keith's GitHub stats](https://github-readme-stats.vercel.app/api?username=lairizzle&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lairizzle&layout=compact&theme=radical)
 
 ---
 
-📫 **Reach me at:**  
+**Reach me at:**  
 [![Email](https://img.shields.io/badge/Email-keith.donaldh@gmail.com-red?style=flat-square&logo=gmail)](mailto:keith.donaldh@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-lairizzle-black?style=flat-square&logo=github)](https://github.com/lairizzle)
